@@ -1,0 +1,5 @@
+[Thumbnailer Entry]
+TryExec=@bindir@/gnome-album-thumbnailer
+Exec=@bindir@/gnome-album-thumbnailer -s %s %u %o
+MimeType=inode/directory;
+
